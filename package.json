@@ -1,0 +1,15 @@
+{
+  "name": "PicHunter",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react": "^0.14.8",
+    "react-native": "^0.25.1",
+    "react-native-http-cache": "^0.1.1",
+    "react-native-loading-spinner-overlay": "0.0.8",
+    "react-native-toast": "^1.0.1"
+  }
+}
